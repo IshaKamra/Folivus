@@ -1,0 +1,51 @@
+# ==============================================================================
+# 🌿 PROJECT FOLIVUS: PRODUCTION GITIGNORE CONFIGURATION
+# ==============================================================================
+
+# --- Hardware & Machine Learning Framework Specific Artifacts ---
+# Block heavy serialized neural network weight matrices & architecture models
+saved_models/
+*.pth
+*.pt
+*.onnx
+*.h5
+
+# --- Local Datasets & Compiled Analytics Reports ---
+# Never track massive image libraries or local analysis metrics artifacts
+data/
+reports/
+*.png
+*.jpg
+*.jpeg
+
+# --- Integrated Development Environments & Virtual Workspaces ---
+# Python Virtual Environments
+venv/
+ENV/
+env/
+
+# Workspace Environment Configurations (Keep local settings decoupled)
+.env
+
+# VS Code IDE Settings
+.vscode/
+.history/
+*.code-workspace
+
+# --- Python Engine Run Cache Buffers ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ipynb_checkpoints/
+
+# --- Operating System Footprints ---
+# Windows Explorer file layouts
+Thumbs.db
+desktop.ini
+
+# macOS Finder remnants
+.DS_Store
+.AppleDouble
+.LSOverride
