@@ -2,6 +2,15 @@
 
 ### Production-Grade Computer Vision Engine for Fine-Grained Crop Disease Diagnostics
 
+[![Framework: PyTorch 2.0+](https://img.shields.io/badge/PyTorch-2.0%2B-EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Augmentation: Albumentations](https://img.shields.io/badge/Augment-Albumentations-66BB6A.svg?style=flat-square)](https://albumentations.ai/)
+[![Harness: Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B.svg?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Python: 3.10+](https://img.shields.io/badge/Python-3.10%2B-37474F.svg?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+
+[![Code Style: Black](https://img.shields.io/badge/code%20style-black-000000.svg?style=flat-square)](https://github.com/psf/black)
+[![PRs: Welcome](https://img.shields.io/badge/PRs-welcome-007A43.svg?style=flat-square)](http://makeapullrequest.com)
+[![License: MIT](https://img.shields.io/badge/License-MIT-007A43.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+
 ---
 
 ## 🔬 Project Overview
